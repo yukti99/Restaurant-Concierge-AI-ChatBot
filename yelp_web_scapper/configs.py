@@ -1,0 +1,10 @@
+YELP_API_AUTHENTICATION_TOKEN = "<YELP API Key>"
+OPEN_SEARCH_END_POINT = "https://search-restaurant-v2-a4qf6vmhyxf3yfil77qj65dgt4.us-west-2.es.amazonaws.com"
+HOST_NAME = "https://api.yelp.com/v3/"
+BUSINESS_SEARCH_PATH = "businesses/search"
+BUSINESS_PATH = "businesses/"
+GET_CALL = 'GET'
+LIMIT = 50
+DEFAULT_LOCATION = 'Manhattan'
+ACCESS_ID = "<AWS ACCESS ID>"
+ACCESS_KEY = "<AWS ACCESS KEY>"
